@@ -1,7 +1,7 @@
 /**
  * Always pick random
  */
-public class AllRandom {
+public class AllRandom implements Player {
   
   private static String[] items = {"r", "p", "s"};
   private static String name = "Always Random";

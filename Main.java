@@ -8,15 +8,16 @@ public class Main
 {
     public static void main(String [] args)
     {
-        Player [] players = new Player[5];  //need to update array based on number of players
+        Player [] players = new Player[6];  //need to update array based on number of players
         boolean printsRun = false;   //printsRun is a boolean set to display moves as game goes, used for debugging
         
         //add players to game
-        players[0] = new AlwaysPaper();
+        players[0] = new AllRandom();
         players[1] = new BeatOpponent();
         players[2] = new Sample1();
         players[3] = new Sample2();
-        players[4] = new WinningStrategy();
+        players[4] = new AlwaysPaper();
+        players[5] = new WinningStrategy();
    
         //construct the game with the classes in the players array, calls on play and displays the score
         //DO NOT CHANGE
