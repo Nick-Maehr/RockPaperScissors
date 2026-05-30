@@ -1,5 +1,5 @@
 # RockPaperScissors
-![Status](https://shields.io) ![Award](https://shields.io)
+![Status]([https://shields.io](https://img.shields.io/github/checks-status/Nick-Maehr/RockPaperScissors/main) ![Award](https://shields.io)
 A useful repository designed to test RPS algorithms under the same conditions on competition day. Demonstrates 1st place RPS algorithm submitted to Foothill High School 2024 Rock Paper Scissors programming competition.
 
 ## ✨ Features
@@ -32,6 +32,6 @@ None
 
 ## 📸 SampleImages
 <p align="center">
-  <img src="images/screenshot1.png" alt="Application Screenshot 1" width="45%"> 
-  <img src="images/screenshot2.png" alt="Application Screenshot 2" width="45%">
+  <img src="images/Screenshot1.png" alt="Application Screenshot 1" width="45%"> 
+  <img src="images/Screenshot2.png" alt="Application Screenshot 2" width="45%">
 </p>
