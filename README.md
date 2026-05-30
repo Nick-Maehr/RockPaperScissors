@@ -7,7 +7,7 @@ A useful repository designed to test RPS algorithms under the same conditions on
 * Easy to add new strategies with custom algorithms thanks to the Player interface
 
 ## 💻 Tech Stack
-![Java](https://shields.io)
+![Java](https://shields.io/badge/Java-007396.svg?logo=java&logocolor=white)
 
 ## 📝 How to use
 Simulate competitions with any algorithm/strategy you can imagine. Add in your own algorithm file or play around with the ones provided.
