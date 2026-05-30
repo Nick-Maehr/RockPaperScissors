@@ -1,5 +1,5 @@
 # RockPaperScissors
-![Status]([https://shields.io](https://img.shields.io/github/checks-status/Nick-Maehr/RockPaperScissors/main) ![Award](https://shields.io)
+![Status]([https://shields.io](https://img.shields.io/github/checks-status/Nick-Maehr/RockPaperScissors/main) ![Award](https://img.shields.io/badge/%F0%9F%8F%86-Award%20Winning?style=flat&label=First%20Place%20Winner&color=teal)   
 A useful repository designed to test RPS algorithms under the same conditions on competition day. Demonstrates 1st place RPS algorithm submitted to Foothill High School 2024 Rock Paper Scissors programming competition.
 
 ## ✨ Features
@@ -7,7 +7,7 @@ A useful repository designed to test RPS algorithms under the same conditions on
 * Easy to add new strategies with custom algorithms thanks to the Player interface
 
 ## 💻 Tech Stack
-![Java](https://shields.io/badge/Java-007396.svg?logo=java&logocolor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&color=red)
 
 ## 📝 How to use
 Simulate competitions with any algorithm/strategy you can imagine. Add in your own algorithm file or play around with the ones provided.
@@ -32,6 +32,6 @@ None
 
 ## 📸 SampleImages
 <p align="center">
-  <img src="images/Screenshot1.png" alt="Application Screenshot 1" width="45%"> 
-  <img src="images/Screenshot2.png" alt="Application Screenshot 2" width="45%">
+  <img src="images/Screenshot1.png" alt="Application Screenshot 1" width="25%"> 
+  <img src="images/Screenshot2.png" alt="Application Screenshot 2" width="65%">
 </p>
