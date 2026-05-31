@@ -1,5 +1,5 @@
 # RockPaperScissors
-![Status](https://github.com/Nick-Maehr/RockPaperScissors/actions/workflows/Main.java/badge.svg) 
+![Status](https://github.com/Nick-Maehr/RockPaperScissors/actions/workflows/gradle.yml/badge.svg) 
 ![Award](https://img.shields.io/badge/%F0%9F%8F%86-Award%20Winning?style=flat&label=First%20Place%20Winner&color=teal)   
 A useful repository designed to test RPS algorithms under the same conditions on competition day. Demonstrates 1st place RPS algorithm submitted to Foothill High School 2024 Rock Paper Scissors programming competition.
 
