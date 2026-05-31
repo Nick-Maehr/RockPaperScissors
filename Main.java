@@ -1,4 +1,3 @@
-import java.util.*;
 /**
  * This file was provided by the competition host.
  * Driver class, sets up game

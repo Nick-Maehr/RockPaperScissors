@@ -1,4 +1,3 @@
-import java.util.*;
 /**
  * This file was provided by the competition host.
  * Write a description of interface Player here.

@@ -1,4 +1,3 @@
-import java.util.*;
 /**
  * This file was provided by the competition host
  * This is where the main game will be played
