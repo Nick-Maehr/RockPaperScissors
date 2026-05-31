@@ -1,5 +1,6 @@
 # RockPaperScissors
-![Status](https://img.shields.io/badge/finished-path?style=for-the-badge&label=build) ![Award](https://img.shields.io/badge/%F0%9F%8F%86-Award%20Winning?style=flat&label=First%20Place%20Winner&color=teal)   
+![Status](https://github.com/Nick-Maehr/RockPaperScissors/actions/workflows/Main.java/badge.svg) 
+![Award](https://img.shields.io/badge/%F0%9F%8F%86-Award%20Winning?style=flat&label=First%20Place%20Winner&color=teal)   
 A useful repository designed to test RPS algorithms under the same conditions on competition day. Demonstrates 1st place RPS algorithm submitted to Foothill High School 2024 Rock Paper Scissors programming competition.
 
 ## ✨ Features
@@ -30,7 +31,7 @@ None
 * Integration with provided/pre-existing code
 * Designing logic-based prediction systems, which eventually won the competition
 
-## 📸 SampleImages
+## 📸 Sample Images
 <p align="center">
   <img src="images/Screenshot1.png" alt="Application Screenshot 1" width="25%"> 
   <img src="images/Screenshot2.png" alt="Application Screenshot 2" width="65%">
