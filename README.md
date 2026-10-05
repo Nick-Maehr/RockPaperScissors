@@ -1,10 +1,10 @@
 # RockPaperScissors
 ![Status](https://github.com/Nick-Maehr/RockPaperScissors/actions/workflows/gradle.yml/badge.svg) 
 ![Award](https://img.shields.io/badge/%F0%9F%8F%86-Award%20Winning?style=flat&label=First%20Place%20Winner&color=teal)   
-A useful repository designed to test RPS algorithms under the same conditions on competition day. Demonstrates 1st place RPS algorithm submitted to Foothill High School 2024 Rock Paper Scissors programming competition.
+A useful repository designed to test RPS algorithms under the same conditions on competition day. Demonstrates the 1st-place RPS algorithm submitted to the Foothill High School 2024 Rock Paper Scissors programming competition.
 
 ## ✨ Features
-* A round robin competition that can test many strategies against each other
+* A round-robin competition that can test many strategies against each other
 * Easy to add new strategies with custom algorithms thanks to the Player interface
 
 ## 💻 Tech Stack
@@ -21,9 +21,7 @@ None
 
 ### Installation
 1. Clone the repo:
-   \`\`\`bash
-   git clone https://github.com/Nick-Maehr/RockPaperScissors
-   \`\`\`
+   ```bash git clone https://github.com/Nick-Maehr/RockPaperScissors```
 2. Enjoy
 
 ## 🧠 Lessons Learned
